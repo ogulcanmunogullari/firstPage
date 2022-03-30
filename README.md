@@ -1,5 +1,5 @@
 ```javascript
-
+//Self learner Frontend Developer
 const Ogulcan = 
 {
     askMeAbout: ["Coffee", "Computer", "Games"],
