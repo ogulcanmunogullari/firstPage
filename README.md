@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? I am currently looking for work.</h1>
 
 ###
 
-<p align="left">My name is Oğulcan and I am a self-taught junior software developer, I would like to work as a Full Stack or Frontend developer.</p>
+<p align="left">My name is Oğulcan and I am a self-taught developer, I would like to work as a Full Stack or Frontend developer.</p>
 
 ###
 
