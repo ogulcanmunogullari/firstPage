@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Oğulcan and I am a self-taught developer, I would like to work as a Full Stack or Frontend developer.</p>
+<p align="left">My name is Oğulcan and I am a software developer.</p>
 
 ###
 
