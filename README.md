@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up? I am currently looking for work.</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br >I'm using Js, React, and Next to write my projects. </p>
+<p align="left">✨ Creating bugs since 2022 </p>
 
 ###
 
